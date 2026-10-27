@@ -1,0 +1,7 @@
+{
+  "name": "ccse-frontend-review",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {"test": "node tests/review.test.cjs"},
+  "devDependencies": {"jsdom": "30.1.3"}
+}
